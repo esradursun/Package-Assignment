@@ -5,7 +5,7 @@
 Favorite packages are stored into a plist named `favoritePackage.plist` in the local file manager.
 
 There are 3 different sorting option buttons which are `Data` as a default, `Talk` and `Sms`.
-For filtering there is a `Filter` button on the top left. Filter button contains 4 different filtering options as `Yearly`, `Monthly`, `Weekly` and `Available until date`. This dropbox is implemented as a Cocoapods library. 
+For filtering there is a `Filter` button on the top right. Filter button contains 4 different filtering options as `Yearly`, `Monthly`, `Weekly` and `Available until date`. This dropbox is implemented as a Cocoapods library. 
 The searchbar can be used for searching the packages by a package name.
 
 # Technologies
